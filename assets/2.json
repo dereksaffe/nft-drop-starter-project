@@ -1,0 +1,19 @@
+{
+  "name": "Eveci3",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HC3iUjLf1BGWCtzKTsUdfzVwZAX1sNx5aHZwDkHspqpe",
+        "share": 100
+      }
+    ]
+  }
+}
